@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router";
+import partyImg from "../assets/party.gif"
+import homeImg from "../assets/search.gif"
 
 const Footer = () => {
   return (
@@ -15,7 +17,7 @@ const Footer = () => {
             <Link to="/" className="hover:text-blue-400 transition duration-300">Home</Link>
             <a  className="hover:text-blue-400 transition duration-300">About</a>
             <a className="hover:text-blue-400 transition duration-300">Services</a>
-            <a className="hover:text-blue-400 transition duration-300">Contact</a>
+            <a className="hover:text-blue-400 transition duration-300"><img src={partyImg} alt="" className="h-10 rounded-full mx-auto text-center" /></a>
           </div>
 
           <div className="flex gap-4 text-gray-400">
