@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router";
 import partyImg from "../assets/party.gif"
-import homeImg from "../assets/search.gif"
+
 
 const Footer = () => {
   return (

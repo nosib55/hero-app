@@ -24,7 +24,7 @@ const homeApplications = applications.slice(0, 8);
     return (
         <div>
             <HeroBanner />
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 mx-auto">
                 {homeApplications.map(app => (
             <HomeCard key={app.id} app={app} />
             
