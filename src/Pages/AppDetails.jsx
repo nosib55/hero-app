@@ -5,8 +5,8 @@ import downloadIcon from '../assets/icon-downloads.png';
 import ratingIcon from '../assets/icon-ratings.png';
 import reviewIcon from '../assets/icon-review.png';
 import Loading from '../Components/Loading';
-import Installation from './Installation';
-import { toast } from 'react-toastify'; 
+import { toast } from 'react-toastify';
+import Rechart from './Rechart'; 
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -37,7 +37,7 @@ const AppDetails = () => {
     );
   }
 
-  const { image, title, downloads, ratingAvg, companyName, size, reviews, description } = app;
+  const { image, title, downloads, ratingAvg, companyName, size, reviews, description, ratings } = app;
 
   const handleInstall = () => {
     const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
@@ -46,17 +46,16 @@ const AppDetails = () => {
     if (!alreadyInstalled) {
       installedApps.push(app);
       localStorage.setItem('installedApps', JSON.stringify(installedApps));
-      setIsInstalled(true); 
-      toast.success(`${title} installed successfully! ✅`); 
+      setIsInstalled(true);
+      toast.success(`${title} installed successfully! ✅`);
     } else {
-      toast.info(`${title} is already installed.`); 
+      toast.info(`${title} is already installed.`);
     }
   };
 
   return (
     <div className="min-h-screen bg-base-200 py-10">
       <div className="w-11/12 mx-auto card bg-base-100 shadow-sm p-8">
-        
         <div className="flex flex-col md:flex-row md:items-center gap-10">
           <div>
             <img className="max-w-48 object-cover rounded-xl" src={image} alt={title} />
@@ -65,8 +64,7 @@ const AppDetails = () => {
           <div className="flex-1">
             <h1 className="text-3xl font-bold">{title}</h1>
             <p className="text-gray-500 mt-2">
-              Developed by:{''}
-              <span className="text-[#39bcf9] font-bold">{companyName}</span>
+              Developed by: <span className="text-[#39bcf9] font-bold">{companyName}</span>
             </p>
 
             <div className="divider"></div>
@@ -89,13 +87,10 @@ const AppDetails = () => {
               </div>
             </div>
 
-            
             <div className="my-4">
               <button
                 onClick={handleInstall}
-                className={`btn text-white ${
-                  isInstalled ? 'bg-[#00d390] ' : 'bg-[#00d390]'
-                }`}
+                className={`btn text-white ${isInstalled ? 'bg-[#00d390]' : 'bg-[#00d390]'}`}
               >
                 {isInstalled ? `Installed` : `Install Now (${size}MB)`}
               </button>
@@ -105,16 +100,19 @@ const AppDetails = () => {
 
         <div className="divider"></div>
 
+        
         <div>
-          <h1 className="text-xl font-bold">Description</h1>
-          <p className="whitespace-pre-line text-gray-500 my-4">{description}</p>
+          <h2 className="text-xl font-bold mb-4">Ratings Overview</h2>
+          <Rechart ratings={ratings} />
         </div>
 
         <div className="divider"></div>
 
-        
+        <div>
+          <h1 className="text-xl font-bold">Description</h1>
+          <p className="whitespace-pre-line text-gray-500 my-4">{description}</p>
+        </div>
       </div>
-      
     </div>
   );
 };

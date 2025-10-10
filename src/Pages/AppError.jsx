@@ -9,8 +9,8 @@ const AppError = () => {
                         <div><img src={appErrorImg} className='w-[500px] h-[500px] mx-auto' alt="" />
                         </div>
                         <div>
-                        <h1 className='text-3xl text-center mt-3 mb-3'>Oops, page not found!</h1>
-                        <p className='text-xl text-center '>The page you are looking for is not available.</p>
+                        <h1 className='text-3xl text-center mt-3 mb-3'>Oops!! App not found!</h1>
+                        <p className='text-xl text-center '>The App you are requesting is not found on our system.  please try another apps</p>
                         <div className='mb-6 mt-2 text-center'>
                         <button className='bg-[#632EE3] p-2 px-5 text-amber-100 rounded-lg'><Link to="/">Go Back!</Link> </button>
                         </div>
