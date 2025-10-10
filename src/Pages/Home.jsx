@@ -33,7 +33,7 @@ const homeApplications = applications.slice(0, 8);
             ))}
             
         </div>
-            <div className='text-center  mb-5'><Link className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] p-2 rounded-md  font-semibold text-white ' to="/app">Show All</Link></div>
+            <div className='text-center mt-8  mb-8'><Link className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] px-7 py-2 rounded-md  font-semibold text-white ' to="/app">Show All</Link></div>
         </div> 
     );
 };
