@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.ibb.co.com/NdbJrJG5/vecteezy-chat-icon-for-your-website-design-logo-app-ui-21351456.jpg",
+    "title": "ChatFlow",
+    "companyName": "FlowTech",
+    "id": 1,
+    "description": "ChatFlow is a seamless messaging app combining real-time text, voice and file sharing in one interface. It offers group chat, media support, and encryption, letting users stay connected effortlessly across devices with smooth synchronization and clean, intuitive layout design.",
+    "size": 24,
+    "reviews": 1023,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 443 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/twLdpPY4/demo-app-5.webp",
+    "title": "FitPulse",
+    "companyName": "HealthWave",
+    "id": 2,
+    "description": "FitPulse helps users track workouts, steps, heart rate and nutrition with vivid charts, reminders, and insights. It offers customized training plans, social sharing, and progress snapshots so that fitness routines stay engaging and goals remain within reach.",
+    "size": 30,
+    "reviews": 850,
+    "ratingAvg": 4.2,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 365 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QvBrRJrh/vecteezy-notebook-icon-for-your-website-mobile-presentation-and-19138628.jpg",
+    "title": "NoteNest",
+    "companyName": "PaperTrail Inc",
+    "id": 3,
+    "description": "NoteNest is a versatile note-taking app that supports text, voice, image and drawing input. It features tagging, notebook grouping, cloud sync and offline mode so users can capture ideas anytime, anywhere without worrying about losing content.",
+    "size": 18,
+    "reviews": 620,
+    "ratingAvg": 4.7,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WCV8pPT/58596973-9391703-1.png",
+    "title": "PhotoMagic",
+    "companyName": "SnapMasters",
+    "id": 4,
+    "description": "PhotoMagic provides an all-in-one environment for photo editing, filters, collage creation and sharing. It supports layering, masking, presets, and creative tools designed to turn ordinary images into stunning visuals with minimal effort.",
+    "size": 45,
+    "reviews": 780,
+    "ratingAvg": 4.4,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 325 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Kp1q6Ps7/58596979-9391723.png",
+    "title": "TravelMate",
+    "companyName": "WanderSoft",
+    "id": 5,
+    "description": "TravelMate is your ultimate travel companion: itinerary planner, booking aggregator, offline maps, and language guides. It helps users organize trips, manage bookings, and find local attractions, all while offering offline support for when connectivity is limited.",
+    "size": 50,
+    "reviews": 430,
+    "ratingAvg": 4.3,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q7BXXfvp/vecteezy-vector-creative-security-logo-design-template-18970445.jpg",
+    "title": "SecureVault",
+    "companyName": "GuardTech",
+    "id": 6,
+    "description": "SecureVault offers encrypted storage for files, passwords, and personal data. With biometrics, two-factor authentication, vault locking and secure sharing, it ensures privacy while giving users quick access under secure conditions.",
+    "size": 12,
+    "reviews": 300,
+    "ratingAvg": 4.8,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 167 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sJMKDyZ0/demo-app-1.webp",
+    "title": "EduLearn",
+    "companyName": "BrightMinds",
+    "id": 7,
+    "description": "EduLearn is an interactive learning app offering lessons, quizzes, flashcards and progress tracking. It covers multiple subjects, adapts to user level, and offers offline mode so learners can continue anytime without being tied to connectivity.",
+    "size": 60,
+    "reviews": 540,
+    "ratingAvg": 4.6,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 235 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KczX0Pz5/58596976-9391705.png",
+    "title": "BudgetWise",
+    "companyName": "MoneyMap",
+    "id": 8,
+    "description": "BudgetWise helps users manage finances, track expenses, set budgets, and view reports. It links to bank accounts, categorizes spending automatically, alerts overspending, and offers goal-setting tools for saving and financial health.",
+    "size": 22,
+    "reviews": 670,
+    "ratingAvg": 4.1,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/b58n9hHw/streaming-generated.jpg",
+    "title": "MusicWave",
+    "companyName": "TuneStream",
+    "id": 9,
+    "description": "MusicWave streams millions of songs, supports playlists, offline listening and smart recommendations. It includes social sharing, lyrics sync, equalizer presets and a clean interface so users can discover, enjoy and share music seamlessly.",
+    "size": 35,
+    "reviews": 910,
+    "ratingAvg": 4.3,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 365 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3mpYW56d/vecteezy-mobile-chalk-weather-rainy-abstract-flat-color-icon-template-18001311.jpg",
+    "title": "WeatherPro",
+    "companyName": "SkyCast",
+    "id": 10,
+    "description": "WeatherPro offers local and global forecasts, radar maps, alerts and hourly updates. It displays temperature, precipitation, wind, UV index and provides widget support so users always stay informed about changing weather conditions.",
+    "size": 28,
+    "reviews": 580,
+    "ratingAvg": 4.0,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6JfQZbpQ/vecteezy-laptop-with-speech-bubble-and-globe-icon-50604255.jpg",
+    "title": "LanguageLearn",
+    "companyName": "PolyglotTech",
+    "id": 11,
+    "description": "LanguageLearn offers interactive lessons, flashcards, pronunciation practice, quizzes and daily challenges. Users can track progress across multiple languages, get feedback, and use offline mode when traveling or where internet is spotty.",
+    "size": 55,
+    "reviews": 450,
+    "ratingAvg": 4.7,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 215 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QWNcc90/vecteezy-pipes-vector-icon-design-20994994.jpg",
+    "title": "RecipeMaster",
+    "companyName": "KitchenGenius",
+    "id": 12,
+    "description": "RecipeMaster gives access to thousands of recipes, cooking guides, meal planning, shopping list tools and video instructions. It lets users filter by diet, cuisine or ingredients and saves favorites for quick access in the kitchen.",
+    "size": 48,
+    "reviews": 520,
+    "ratingAvg": 4.4,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 195 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z1B6fbM7/vecteezy-a-check-mark-icon-on-a-white-background-51411475.jpg",
+    "title": "TaskFlow",
+    "companyName": "ProductiveApps",
+    "id": 13,
+    "description": "TaskFlow is a productivity and to-do list manager supporting projects, subtasks, reminders, deadlines and priority flags. It syncs across devices, supports collaboration and helps users stay organized and focused on key tasks.",
+    "size": 15,
+    "reviews": 700,
+    "ratingAvg": 4.5,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/20gvNDTG/vecteezy-book-icon-design-illustration-book-icon-for-apps-and-51139193.jpg",
+    "title": "BookWorm",
+    "companyName": "ReadSphere",
+    "id": 14,
+    "description": "BookWorm is an e-reader and library app offering thousands of books, custom reading settings, notes, bookmarks and recommendations. Users can sync between devices, discover new titles and track reading goals seamlessly.",
+    "size": 40,
+    "reviews": 610,
+    "ratingAvg": 4.3,
+    "downloads": 230000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TMQzV95y/vecteezy-sleep-vector-icon-19594930-1.jpg",
+    "title": "SleepCalm",
+    "companyName": "RestWell",
+    "id": 15,
+    "description": "SleepCalm helps track sleep patterns, offers guided meditations, white noise, bedtime reminders and insights. The app analyzes sleep cycles and offers tips to improve rest, helping users wake refreshed and maintain consistent routines.",
+    "size": 26,
+    "reviews": 480,
+    "ratingAvg": 4.6,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 55 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 220 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3yG3xzp3/vecteezy-a-game-controller-and-a-computer-screen-54995063.jpg",
+    "title": "GameZone",
+    "companyName": "PlayWorld Studios",
+    "id": 16,
+    "description": "GameZone is a hub for mobile gamers offering hundreds of trending games, live tournaments, and leaderboards. It allows players to connect with friends, stream gameplay, earn rewards, and access personalized recommendations for endless entertainment.",
+    "size": 65,
+    "reviews": 1250,
+    "ratingAvg": 4.4,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 565 }
+    ]
+  }
+]
