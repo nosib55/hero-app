@@ -31,7 +31,7 @@ const Application = () => {
 
           <input
             value={search}
-            onChange={(e) => setSearch(e.target.value)}
+            onChange={(event) => setSearch(event.target.value)}
             type="search"
             placeholder='Search'
             className='border border-gray-500 rounded-md w-[300px] p-2'
