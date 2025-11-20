@@ -10,11 +10,15 @@ React
 
 Tailwind CSS
 
+JavaScript
+
 DaisyUI
 
 React Icons
 
 Recharts
+
+Rest APIs
 
 ## Core Tools
 
